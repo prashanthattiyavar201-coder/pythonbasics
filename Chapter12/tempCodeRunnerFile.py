@@ -1,0 +1,1 @@
+squaredList =  [i*i for i in myList]

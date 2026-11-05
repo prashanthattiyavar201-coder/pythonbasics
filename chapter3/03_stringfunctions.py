@@ -1,0 +1,7 @@
+name = ("prashant")
+print(len(name))
+print(name.endswith("hant"))
+print(name.count("n"))
+print(name.capitalize())
+print(name.find("ha"))
+print(name.replace("p","P"))
